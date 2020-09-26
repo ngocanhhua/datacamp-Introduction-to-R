@@ -33,6 +33,6 @@ In this introduction to R, you will master the basics of this beautiful open sou
 * The course is taught by [Jonathan Cornelissen](https://www.datacamp.com/instructors/jonathanauthor).
 * All the initial code from this course is the property of respective authors and DataCamp.
 
-### License
+### Certificate
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+[Statement-of-accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/c8662a112bcb2991eca6e2e2511973a799db100e)
